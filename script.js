@@ -5,12 +5,12 @@ const botonDos = document.getElementById('botonDos')
 
 
 let imagenes = [
-    '../assets/Camisetas/Ajax.jpg',
-    '../assets/Camisetas/Argentina.jpg',
-    '../assets/Camisetas/Bayern.jpg',
-    '../assets/Camisetas/Boca.jpg',
-    '../assets/Camisetas/Manchester.jpg',
-    '../assets/Camisetas/River.jpg',
+    './assets/Camisetas/Ajax.jpg',
+    './assets/Camisetas/Argentina.jpg',
+    './assets/Camisetas/Bayern.jpg',
+    './assets/Camisetas/Boca.jpg',
+    './assets/Camisetas/Manchester.jpg',
+    './assets/Camisetas/River.jpg',
 ];
 
 image.src = imagenes[counter];
